@@ -1,0 +1,12 @@
+<?php
+/**
+ * @file
+ * Install and uninstall functions for the Coco Editor module.
+ */
+
+/**
+ * Implements hook_install().
+ */
+function coco_editor_install() {
+  // @todo Make sure jQuery Update is configured.
+}
