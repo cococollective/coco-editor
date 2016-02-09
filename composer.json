@@ -12,7 +12,6 @@
     }
   ],
   "require": {
-    "drupal/drupal": "7.*",
     "drupal/dialog": "7.*",
     "drupal/editor": "7.*"
   },
