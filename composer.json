@@ -1,19 +1,24 @@
 {
   "name": "cococollective/coco-editor",
-  "description": "Drupal module. Provides a WYSIWYG rich text editor.",
   "type": "drupal-module",
+  "description": "Drupal module. Provides a WYSIWYG rich text editor.",
   "license": "GPL-2.0+",
+  "homepage": "https://github.com/cococollective/coco-article",
+  "authors": [
+    {
+      "name": "Sierk Beij",
+      "email": "sierk@cococollective.org",
+      "role": "Lead developer for CocoCollective"
+    }
+  ]
   "require": {
     "drupal/drupal": "7.*",
     "drupal/dialog": "7.*",
     "drupal/editor": "7.*"
   },
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "authors": [
-    {
-      "name": "Sierk Beij",
-      "email": "sierk@cococollective.org"
+  "extra": {
+    "branch-alias": {
+      "dev-7.x-0.x": "7.0.x-dev"
     }
-  ]
+  }
 }
