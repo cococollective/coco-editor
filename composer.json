@@ -10,7 +10,7 @@
       "email": "sierk@cococollective.org",
       "role": "Lead developer for CocoCollective"
     }
-  ]
+  ],
   "require": {
     "drupal/drupal": "7.*",
     "drupal/dialog": "7.*",
